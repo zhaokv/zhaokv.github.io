@@ -1,3 +1,17 @@
-theme: jekyll-theme-cayman
-title: [Kui Zhao's Blog]
-description: [Make the world better.]
+# Site settings
+title: Kui Zhao's Blog
+email: zhaokv(-at-)163.com
+description: > # this means to ignore newlines until "baseurl:"
+  Make the world a better place!
+copyright: > 
+  Copyright © 2019 Kui Zhao
+
+
+github_username:  zhaokv
+
+# Build settings
+markdown: kramdown
+
+
+# wiki
+wikiurl: /wiki
