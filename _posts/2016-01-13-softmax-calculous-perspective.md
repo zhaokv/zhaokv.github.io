@@ -2,7 +2,7 @@
 layout: post
 title: "从数学分析的角度来看Softmax"
 description: ""
-category: "machine learning"
+category: "machine_learning"
 tags: ["数值计算","机器学习"]
 published: true
 ---
