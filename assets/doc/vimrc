@@ -1,0 +1,38 @@
+"显示行号 
+set nu
+set cursorline              " 突出显示当前行
+set magic                   " 设置魔术
+" 不要使用vi的键盘模式，而是vim自己的
+set nocompatible
+" 语法高亮
+syntax on
+" 去掉输入错误的提示声音
+set noeb
+" 在处理未保存或只读文件的时候，弹出确认
+set confirm
+" 自动缩进
+set autoindent
+set cindent
+filetype plugin indent on
+" Tab键的宽度
+set backspace=2
+set tabstop=4
+" 统一缩进为4
+set softtabstop=4
+set shiftwidth=4
+set expandtab
+
+nmap <leader>w :w!<cr>
+nmap <leader>f :find<cr>
+
+" 映射全选+复制 ctrl+a
+map <C-A> ggVGY
+map! <C-A> <Esc>ggVGY
+map <F12> gg=G
+" 选中状态下 Ctrl+c 复制
+vmap <C-c> "+y
+
+" 设置当文件被改动时自动载入
+set autoread
+"自动保存
+set autowrite
