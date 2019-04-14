@@ -4,14 +4,14 @@ title: About
 permalink: /about
 ---
 
+Email: zhaokv(-at-)163.com \\
+Github: [github.com/zhaokv](https://github.com/zhaokv)
+
 **Biography**: I am currently a Senior Algorithm Engineer at Alibaba DAMO Academy. I received MEng degree from College of Computer Science of Zhejiang University in 2017. 
 
 **Interests**: I am interested in studying and applying cutting edges quantitative technologies, including statistical inference, machine learning, optimization, to  making better business decisions, e.g. recommendation, forecasting, pricing, marketing, finance. 
 
-
-
 ## Publications
-
 [**List of Papers on Google Scholar**](https://scholar.google.com/citations?user=fm2rVwsAAAAJ)
 
 - A Unified Framework for Marketing Budget Allocation. K Zhao, J Hua, L Yan, Q Zhang, H Xu, C Yang. 2019. [[Paper](https://arxiv.org/abs/1902.01128)]
@@ -24,7 +24,6 @@ permalink: /about
 - An algorithm of parking planning for smart parking system. X Zhao, K Zhao, F Ha. WCICA 2014. [[Paper](https://arxiv.org/abs/1708.07932)]
 
 ## Awards
-
 - The Champion of 3457 teams in  *Guangdong Aviation Big-Data Innovation Contest*. Details can be found [here](/data_mining/2016/12/guangdong-champion.html).
 - The 5-th of 2293 teams in *Weibo User Behavior Prediction Contest*. Details can be found [here](/assets/doc/Weibo_SeaSide_v2.pptx).
 - Excellent postgraduate students' award. 
