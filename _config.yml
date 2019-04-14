@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Make the World a Better Place
 copyright: > 
   Kui Zhao
-license: >
+license: > 
   MIT License
 
 wikiurl: wiki
@@ -21,3 +21,4 @@ url: "https://zhaokv.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
