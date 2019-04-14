@@ -9,9 +9,10 @@
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
     <div style="display:none">
         <script type="text/javascript" src="https://s5.cnzz.com/z_stat.php?id=1277107882&web_id=1277107882"></script>
     </div>
+    {% feed_meta %}
+    {% seo %}
 
 </head>

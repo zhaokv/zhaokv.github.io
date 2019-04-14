@@ -14,3 +14,8 @@ github_username:  zhaokv
 markdown: kramdown
 
 permalink: /:categories/:year/:month/:title:output_ext
+
+url: "https://zhaokv.com" # the base hostname & protocol for your site
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
