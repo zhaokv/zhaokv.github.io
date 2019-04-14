@@ -6,7 +6,7 @@ permalink: /about
 
 **Biography**: I am currently a Senior Algorithm Engineer at Alibaba DAMO Academy. I received MEng degree from College of Computer Science of Zhejiang University in 2017. 
 
-**Interests**: I am interested in studying and applying cutting edges quantitative technologies (e.g. statistical inference, machine learning, optimization) in making better business decisions (e.g. recommendation, forecasting, pricing, marketing, finance). 
+**Interests**: I am interested in studying and applying cutting edges quantitative technologies, including statistical inference, machine learning, optimization, to  making better business decisions, e.g. recommendation, forecasting, pricing, marketing, finance. 
 
 
 
