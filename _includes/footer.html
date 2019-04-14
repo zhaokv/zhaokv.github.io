@@ -7,9 +7,14 @@
     <div class="footer-col-wrapper">
       <div class="footer-col  footer-col-1">
         <p class="copyright">
-        MIT License </br>
-		{{site.copyright}}
-		</p>
+        {% if site.license %}
+          {{site.license}}
+          </br>
+		    {% endif %}
+        {% if site.copyright %}
+          Copyright © {{ site.time | date: '%Y' }} {{site.copyright}}
+        {% endif %}
+		    </p>
       </div>
 
       <div class="footer-col  footer-col-2">
