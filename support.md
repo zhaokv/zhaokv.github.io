@@ -5,7 +5,7 @@ permalink: /support
 ---
 
 <center><h1>
-If you find my work helpful, support me: 
+If you find my work helpful, please support me: 
 </h1></center>
 
 <br/>
