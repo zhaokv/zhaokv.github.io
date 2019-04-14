@@ -12,3 +12,5 @@ github_username:  zhaokv
 
 # Build settings
 markdown: kramdown
+
+permalink: /:categories/:year/:month/:title:output_ext
