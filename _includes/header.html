@@ -19,6 +19,10 @@
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+
+        {% if site.wikiurl %} 
+          <a class="page-link" href="{{ site.wikiurl }}">Wiki</a>
+        {% endif %}
       </div>
     </nav>
 
