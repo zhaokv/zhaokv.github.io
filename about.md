@@ -15,7 +15,7 @@ permalink: /about
 [**List of Papers on Google Scholar**](https://scholar.google.com/citations?user=fm2rVwsAAAAJ)
 
 - A Unified Framework for Marketing Budget Allocation. K Zhao, J Hua, L Yan, Q Zhang, H Xu, C Yang. 2019. [[Paper](https://arxiv.org/abs/1902.01128)]
-- Adaptive Recurrent Neural Network via Persistent Memory. K Zhao, Y Li, C Zhang, C Yang. 2018. [[Paper](https://arxiv.org/abs/1801.08094)]
+- Adaptive Recurrent Neural Network Based on Mixture Layer. K Zhao, Y Li, C Zhang, C Yang. 2018. [[Paper](https://arxiv.org/abs/1801.08094)]
 - Learning and Transferring IDs Representation in E-commerce. K Zhao, Y Li, Z Shuai, C Yang. KDD 2018. [[Paper](https://dl.acm.org/citation.cfm?id=3219855)] [[Slides](/assets/doc/kdd18_slides.pdf)] [[Poster](/assets/doc/kdd18_poster.pdf)] [[Video](https://www.kdd.org/kdd2018/accepted-papers/view/learning-and-transferring-ids-representation-in-e-commerce)]
 - Navigation objects extraction for better content structure understanding. K Zhao, B Li, Z Peng, J Bu, C Wang. WI 2017. [[Paper](https://dl.acm.org/citation.cfm?id=3106437)] [[Slides](/assets/doc/WI17.pptx)]
 - Deep Data Mining in E-commerce Based on Convolutional Neural Networks. K Zhao. The thesis for  master degree. 2017. [[Paper](/assets/doc/master_thesis.pdf)] [[Slides](/assets/doc/master_slides.pptx)]
