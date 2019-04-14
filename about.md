@@ -25,6 +25,6 @@ permalink: /about
 
 ## Awards
 
-- The Champion of 3457 teams in  *Guangdong Aviation Big-Data Innovation Contest*. Details can be found [here](/data_mining/2016/12/12/guangdong-champion.html).
+- The Champion of 3457 teams in  *Guangdong Aviation Big-Data Innovation Contest*. Details can be found [here](/data_mining/2016/12/guangdong-champion.html).
 - The 5-th of 2293 teams in *Weibo User Behavior Prediction Contest*. Details can be found [here](/assets/doc/Weibo_SeaSide_v2.pptx).
 - Excellent postgraduate students' award. 
