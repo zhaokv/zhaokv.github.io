@@ -5,6 +5,8 @@ description: ""
 category: "math"
 tags: ["数学", "采样"]
 published: true
+redirect_from: 
+  - /2016/01/sample-with-replacement-unique-number
 ---
 
 * 目录

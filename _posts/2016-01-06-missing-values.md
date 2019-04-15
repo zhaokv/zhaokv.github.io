@@ -5,9 +5,11 @@ description: ""
 category: "machine_learning"
 tags: ["缺失值", "数据清洗"]
 published: true
+redirect_from: 
+  - /2016/01/missing-values
 ---
 
-现实世界中的数据往往非常杂乱，未经处理的原始数据中某些属性数据缺失是经常出现的情况。另外，在做特征工程时经常会有些样本的某些特征无法求出。路漫漫其修远兮，数据还是要继续挖的，本文介绍几种处理数据中缺失值的主要方法。![阅读更多…](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+现实世界中的数据往往非常杂乱，未经处理的原始数据中某些属性数据缺失是经常出现的情况。另外，在做特征工程时经常会有些样本的某些特征无法求出。路漫漫其修远兮，数据还是要继续挖的，本文介绍几种处理数据中缺失值的主要方法。
 
 ##  一、常用方法
 

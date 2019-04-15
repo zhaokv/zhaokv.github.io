@@ -5,9 +5,11 @@ description: ""
 category: "machine_learning"
 tags: ["样本不平衡","数据预处理"]
 published: true
+redirect_from: 
+  - /2016/01/learning-from-imbalanced-data
 ---
 
-这几年来，机器学习和数据挖掘非常火热，它们逐渐为世界带来实际价值。与此同时，越来越多的机器学习算法从学术界走向工业界，而在这个过程中会有很多困难。**数据不平衡问题**虽然不是最难的，但绝对是最重要的问题之一。![阅读更多…](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+这几年来，机器学习和数据挖掘非常火热，它们逐渐为世界带来实际价值。与此同时，越来越多的机器学习算法从学术界走向工业界，而在这个过程中会有很多困难。**数据不平衡问题**虽然不是最难的，但绝对是最重要的问题之一。
 
 ## 一、数据不平衡
 

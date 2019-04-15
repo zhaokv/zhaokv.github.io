@@ -5,6 +5,8 @@ description: ""
 category: "machine_learning"
 tags: ["归一化", "标准化"]
 published: true
+redirect_from: 
+  - /2016/01/normalization-and-standardization
 ---
 
 在机器学习和数据挖掘中，经常会听到两个名词：归一化（Normalization）与标准化（Standardization）。它们具体是什么？带来什么益处？具体怎么用？本文来具体讨论这些问题。

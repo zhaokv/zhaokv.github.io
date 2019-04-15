@@ -5,6 +5,8 @@ description: ""
 category: "machine_learning"
 tags: ["数值计算","机器学习"]
 published: true
+redirect_from: 
+  - /2016/01/softmax-calculous-perspective
 ---
 
 Softmax是机器学习中最常用的输出函数之一，网上有很多资料介绍它是什么以及它的用法，但却没有资料来介绍它背后的原理。本文首先简单地介绍一下Softmax，然后着重从数学分析的角度来分析一下它背后的原理。
