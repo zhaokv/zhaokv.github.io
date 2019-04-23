@@ -5,7 +5,7 @@ description: ""
 category: "reading"
 tags: ["刻意练习"]
 redirect_from: 
-  - /2018/05/readling/deliberate-practice
+  - /readling/2018/05/deliberate-practice
 published: true
 ---
 我们的大脑拥有和莫扎特这样的“天才”相同的适应能力，“天才”只是更多地利用了这种适应能力
