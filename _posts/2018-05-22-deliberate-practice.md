@@ -2,7 +2,7 @@
 layout: post
 title: "《刻意练习》读书笔记"
 description: ""
-category: "readling"
+category: "reading"
 tags: ["刻意练习"]
 published: true
 ---
