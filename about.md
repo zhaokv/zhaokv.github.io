@@ -7,7 +7,7 @@ permalink: /about
 Email: zhaokv(-at-)163.com \\
 Github: [github.com/zhaokv](https://github.com/zhaokv)
 
-**Biography**: I am currently a Senior Algorithm Engineer at Consumer Credit Risk Management Department in Ant Financial since Jul. 2019. Before this, I was working at Alibaba DAMO Academy since Apr. 2017 and I was an intern there since May 2016. I received MEng degree from College of Computer Science of Zhejiang University in 2017. 
+**Biography**: I am currently a Senior Algorithm Engineer at the Risk Management Department in Ant Financial since Jul. 2019. Before that, I was working at Alibaba DAMO Academy since Apr. 2017 and I was an intern there since May 2016. I am now CFA Level III Candidate. I received MEng degree from College of Computer Science of Zhejiang University in 2017. 
 
 **Interests**: I am interested in studying and applying cutting edges quantitative technologies, including statistical inference, machine learning, optimization, to making better business decisions, including finance, E-commerce, e.g. risk management, recommendation, forecasting, pricing, marketing. 
 
