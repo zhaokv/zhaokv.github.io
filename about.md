@@ -13,8 +13,8 @@ Email: zhaokv(-at-)163.com \\
 ## Publications
 [**List of Papers on Google Scholar**](https://scholar.google.com/citations?user=fm2rVwsAAAAJ)
 
-- Intelligent Credit Limit Management in Consumer Loans Based on Causal Inference. Hang Miao, **K Zhao**, Zhun Wang, Linbo Jiang, Quanhui Jia, Yanming Fang, Quan Yu. [Under Review] 
-- Large-scale Uncertainty Estimation and Its Application in Revenue Prediction of SMEs. Zebang Zhang, **K Zhao**, Kai Huang, Quanhui Jia, Yanming Fang, Quan Yu. [Under Review]
+- Intelligent Credit Limit Management in Consumer Loans Based on Causal Inference. Hang Miao, **Kui Zhao**, Zhun Wang, Linbo Jiang, Quanhui Jia, Yanming Fang, Quan Yu. [Under Review] 
+- Large-scale Uncertainty Estimation and Its Application in Revenue Prediction of SMEs. Zebang Zhang, **Kui Zhao**, Kai Huang, Quanhui Jia, Yanming Fang, Quan Yu. [Under Review]
 - A Unified Framework for Marketing Budget Allocation. **Kui Zhao**, Junhao Hua, Ling Yan, Qi Zhang, Huan Xu, Cheng Yang. KDD 2019. [[Paper](https://arxiv.org/abs/1902.01128)]
 - Adaptive Recurrent Neural Network Based on Mixture Layer. **Kui Zhao**, Yuechuan Li, Chi Zhang, Cheng Yang. 2018. [[Paper](https://arxiv.org/abs/1801.08094)]
 - Learning and Transferring IDs Representation in E-commerce. **Kui Zhao**, Yuechuan Li, Zhaoqian Shuai, Cheng Yang. KDD 2018. [[Paper](https://dl.acm.org/citation.cfm?id=3219855)] [[Slides](/assets/doc/kdd18_slides.pdf)] [[Poster](/assets/doc/kdd18_poster.pdf)] [[Video](https://www.kdd.org/kdd2018/accepted-papers/view/learning-and-transferring-ids-representation-in-e-commerce)]
