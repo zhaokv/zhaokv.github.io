@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Email: zhaokv(-at-)163.com \\
+Email: zhaokv(-at-)163.com 
 
 **Biography**: I am currently a Senior Algorithm Engineer at the Risk Management Department in Ant Financial since Jul. 2019. Before that, I was working at Alibaba DAMO Academy since Apr. 2017 and I was an intern there since May 2016. I am now a CFA Level III candidate. I received MEng degree from College of Computer Science of Zhejiang University in 2017. 
 
