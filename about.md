@@ -6,7 +6,7 @@ permalink: /about
 
 Email: zhaokv(-at-)163.com 
 
-**Biography**: I am currently a Senior Algorithm Engineer at the Recommender System Department II in Pinduoduo Inc. since Jul. 2020. I was working at the Risk Management Department in Ant Financial since Jul. 2019. Before that, I was working at Alibaba DAMO Academy since Apr. 2017 and I was an intern there since May 2016. I am the reviewer of many academic conferences and journals, including KDD, AAAI, IJCAI, TNNLS, and so on. Besides, I am now a CFA Level III candidate. 
+**Biography**: I am currently a Tech Leader at the Recommender System Department II in Pinduoduo Inc. since Jul. 2020. I was working at the Risk Management Department in Ant Financial since Jul. 2019. Before that, I was working at Alibaba DAMO Academy since Apr. 2017 and I was an intern there since May 2016. I am the reviewer of many academic conferences and journals, including KDD, AAAI, IJCAI, TNNLS, and so on. Besides, I am now a CFA Level III candidate. 
 
 **Interests**: I am interested in studying and applying cutting edges technologies, including machine learning, deep learning, statistical inference, optimization, to making better business decisions in E-commerce and finance, e.g. recommendation, pricing, marketing, quantitative investment etc. 
 
